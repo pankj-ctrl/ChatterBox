@@ -72,10 +72,11 @@ http://localhost:8080/chats
 
 ## 📌 Routes
 
-| Method | Route           | Description          |
+| Method | Route           | Description         |
 |--------|----------------|----------------------|
 | GET    | /chats         | Show all chats       |
 | GET    | /chats/new     | Show form to create  |
+| GET    | /chats/:id     | Show chat data       |
 | POST   | /chats         | Create new chat      |
 | GET    | /chats/:id/edit| Edit chat message    |
 | PUT    | /chats/:id     | Update chat message  |
