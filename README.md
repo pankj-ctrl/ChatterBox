@@ -1,4 +1,4 @@
-# Chatify - A Simple Chat Application 💬
+# ChatterBox - A Simple Chat Application 💬
 
 A simple chat application built using **Node.js**, **Express**, **MongoDB (Mongoose)**, and **EJS**.  
 This project demonstrates **CRUD operations** for a chat system where users can create, read, update, and delete chat messages.
